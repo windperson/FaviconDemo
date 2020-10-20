@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaviconDemo", "FaviconDemo\FaviconDemo.csproj", "{4274042E-5726-49EF-BB1D-5E6F81DA3FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4274042E-5726-49EF-BB1D-5E6F81DA3FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4274042E-5726-49EF-BB1D-5E6F81DA3FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4274042E-5726-49EF-BB1D-5E6F81DA3FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4274042E-5726-49EF-BB1D-5E6F81DA3FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B550A0BC-B488-404E-9B45-E3365B3BE746}
+	EndGlobalSection
+EndGlobal
